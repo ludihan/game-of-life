@@ -1,2 +1,2 @@
 # game-of-life
-Conway's Game of Life implemented in Go
+Conway's Game of Life in Go
